@@ -1,3 +1,14 @@
+# Calculator
+
+* React Hooks used in this project.
+* This Project performs calculator functions.
+
+## Preview
+
+![ezgif com-gif-maker (20)](https://user-images.githubusercontent.com/34038741/112184459-4894aa80-8c10-11eb-968a-63c421c1c7be.gif)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
